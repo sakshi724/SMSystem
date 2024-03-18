@@ -8,7 +8,7 @@ Student Management System (SMS) is a solution tool that is designed to track, ma
 
 # Project Details :
 
-**Project Demo URL :** https://studentmanagementsystem1.azurewebsites.net
+**Project Demo URL :** https://studentmanagementsystem1.azurewebsites.net/SMSystem/studentms/
 
 **Github Repository URL :** https://github.com/sakshi724/student_management_system
 

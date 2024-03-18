@@ -1,7 +1,7 @@
 <?php 
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
+define('DB_HOST','smydb.mysql.database.azure.com');
+define('DB_USER','sakshi');
+define('DB_PASS','smeshram@1');
 define('DB_NAME','studentmsdb');
 try
 {

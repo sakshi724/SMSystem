@@ -1,4 +1,3 @@
-<!--footer-->
 <div class="footer">
     <!-- container -->
     <div class="container">
@@ -78,5 +77,5 @@ foreach($results as $row)
 });
 </script>
 <a href="#to-top" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
-<!----> 
+<iframe  src="https://webchat.botframework.com/embed/StudentManagementSystem1-bot?s=q51yiwIpFqA.59QZyYoqrWoqH4Y_ZzIQdA583k6AwyOfhW7bgORfSEk" style="height: 502px; max-height: 502px;"></iframe></div>
   </div>
